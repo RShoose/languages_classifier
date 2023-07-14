@@ -1,0 +1,8 @@
+pandas
+numpy
+re
+string
+sklearn
+keras
+matplotlib
+sentencepiece
